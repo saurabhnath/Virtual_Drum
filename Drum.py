@@ -6,6 +6,8 @@ from susic import snare
 from susic import hihat
 from contour import findContour
 
+print("Start your virtual drum, created by saurav")
+
 # color to detect - drum stick
 lower = [17, 15, 100]
 upper = [80, 76, 220]
